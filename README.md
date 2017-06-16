@@ -1,2 +1,9 @@
 # RIGIS-lakes-ponds-reservoirs-integrated-water-quality-report-2012  
 [View metadata](./lakes_IWQMA12/lakes_IWQMA12.txt)
+
+**Contributor:** 
+Rhode Island Department of Environmental Management, Office of Water Resources
+
+Vector polygon data representing Rhode Island Lakes, Ponds and Reservoirs included in the State's Integrated Water Quality and Assessment Report required under provisions of the US Clean Water Act The Rhode Island Department of Environmental Management, Office of Water Resources has developed this document to provide information on Rhode Island water quality required biennially by Section 305(b) and periodically by Section 303(d) of the federal Water Pollution Control Act (the Clean Water Act). This first Integrated Water Quality Monitoring and Assessment Report is intended to meet the reporting requirements of Sections 106, 303(d), 305(b), 314 and 319 of the Clean Water Act. This report integrates the previously separate 305(b) State of the States Waters Report and the 303(d) List of Impaired Waters. The narrative focus of this Integrated Report is shifted away from the extensive program descriptions presented in previous 305(b) Reports (website links are provided to guide interested readers to additional program information). Instead the Integrated Report is focused to highlight the environmental results that these programs have achieved or new programs and initiatives that have developed during the reporting cycle.
+
+PLEASE NOTE: A Water Quality Standard describes an ideal condition or goal for a waterbody. In many cases a waterbody may not meet the standard. In those situations the waterbody is included on the State 303(d) list and the State is required to develop a plan (TMDL) to restore the waterbody to it's standard condition. In the new integrated report data format, only waterbodies in category 5 (IR_Cat) are included on the303d list.
